@@ -1,5 +1,22 @@
 # 💫 About Me:
-I am student currently studying CS and I am software engineer working with fullstack applications. From experience only passion project about AI fitness coach. In school learned CSS HTML PHP C sharp c++ python java sql kotlin
+I am student currently studying CS and I am software engineer working with fullstack applications.
+PROJECTS:
+AI fitness and nutrition coach:
+A full-stack web app I worked on for about a year. 
+- Builds a 4-week training program from a person's goal, strength, equipment and injuries (rule-based, with deload weeks)
+- Estimates calories and macros from a photo of a meal, including Central Asian dishes like beshbarmak, plov and manty
+- Adapts each workout to sleep and fatigue check-ins, tracks lifts and personal records
+- AI coach chat that sees the user's profile, recovery and nutrition plan
+- Stack: Python, FastAPI, PostgreSQL (Neon), vanilla JS, Chart.js, Groq API, deployed on Render
+AIRLAYER:
+A Windows study tool: a transparent ink layer over any app, controlled by mouse or by hand through the webcam.
+- Hand tracking with MediaPipe; gestures detected by geometry with smoothing and debouncing
+- Hand mouse, gesture shortcuts, chess board marks, study timer
+- 523 automated tests (about 89% coverage), GitHub Actions CI, packaged Windows release
+- Stack: Python, PySide6 (Qt), OpenCV, MediaPipe, pytest
+SKIILS:
+Python · JavaScript · SQL · C++ · C# · Java · Kotlin · PHP · HTML/CSS
+FastAPI · PostgreSQL · Qt · OpenCV · MediaPipe · Git · GitHub Actions
 
 
 ## 🌐 Socials:
